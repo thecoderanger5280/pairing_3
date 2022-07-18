@@ -1,4 +1,4 @@
-best_friend = "Max"
+best_friend = "Mike"
 
 if best_friend == "Max"
   puts "This is my best friend Max"
